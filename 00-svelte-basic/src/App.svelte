@@ -26,6 +26,10 @@
     <input placeholder="Password" bind:value={password} />
     <button onclick={login}>Login</button>
     <button onclick={register}>Register</button>
+    <p>
+      Hello! This is my work so far, its very bare bones but I've made some drafts of what my website will look like and will start to work on the 
+      css and content from there. I'm also in the process of making a proper login system.
+    </p>
   </div>
 {:else}
   <nav>
@@ -42,3 +46,4 @@
     {/if}
   </main>
 {/if}
+
