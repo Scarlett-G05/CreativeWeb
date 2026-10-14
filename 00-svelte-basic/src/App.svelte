@@ -7,6 +7,7 @@
   let loggedIn = $state(false);
   let registered = $state(false);
   let currentTab = $state('home');
+  let users = []
 
   function login() {
     if (username && password) loggedIn = true;
