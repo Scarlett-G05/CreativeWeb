@@ -1,20 +1,11 @@
 Creative Web Project
 Main idea: 
 
-photography display website- people can upload their photos with a custom layout! They can stretch with mouse and import their own photos. Easily add custom borders. Maybe comes with a tutorial 
+My website is called Photografreak. The premise is simple, its a portfolio maker for photographers to upload their work and customise their aesthetic.
+The unique feature of my website is it allows the user to upload their photos with a custom layout. The default portfolio template comes with 4 divs that can be stretched/compacted by the user dragging them out with their mouse. This makes the website creative and personable. There will be a view mode and an edit mode.
+There will be a login page where the user can make a new user and login. Usernames and their corresponding password will be stored safely in the website's backend.
 
-Intro: 
-
-I am creating a Svelte website with creativity as the focus. I will be using multiple APIs 
-
- 
-
- lets user draw their own avatar! and save it (probably no) 
-
-Intro: Creative web sites 
-
-Explain Stelve tech in detail 
-
+APIs that I will be using are 
 Svelte APIs 
 
 Fetch, Request, Response 
