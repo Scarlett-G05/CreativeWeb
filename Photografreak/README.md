@@ -15,7 +15,7 @@ To recreate this project with the same configuration:
 
 ```sh
 # recreate this project
-npx sv@1.1.0 create --template minimal --types jsdoc --install npm Cweb
+npx sv@1.1.1 create --template minimal --types jsdoc --install npm Photografreak
 ```
 
 ## Adding features
